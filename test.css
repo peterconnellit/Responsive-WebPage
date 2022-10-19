@@ -174,6 +174,7 @@ header fieldset legend {
     text-align: left;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 .item-description {
@@ -205,7 +206,7 @@ header fieldset legend {
 
 .review-description {
     width: 60%;
-    padding-top: 10px;
+    padding-top: 30px;
 }
 
 .review-icon {
@@ -376,9 +377,10 @@ footer{
 
     .review-description {
         width: auto;
+        padding-top: 0px;
     }
 
     .footer-list {
-        margin-right: 25px;
+        margin-right: 35px;
     }
 }
